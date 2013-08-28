@@ -10,7 +10,7 @@ my C code in akaedu learning
 * Integer Promotion
 
 ## Git 命令
-*git clone
-*git full
-*git commit -a -m "modify readme"
-*git push
+* git clone
+* git full
+* git commit -a -m "modify readme"
+* git push
