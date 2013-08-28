@@ -1,0 +1,3 @@
+add.o: add.c head.h
+main.o: main.c head.h
+sub.o: sub.c head.h
