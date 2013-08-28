@@ -11,3 +11,5 @@ my C code in akaedu learning
 
 ## Git 命令
 *git clone
+*git full
+*git push
