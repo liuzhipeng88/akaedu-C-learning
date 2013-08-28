@@ -12,4 +12,5 @@ my C code in akaedu learning
 ## Git 命令
 *git clone
 *git full
+*git commit -a -m "modify readme"
 *git push
